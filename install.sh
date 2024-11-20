@@ -212,7 +212,7 @@ fi
 execute_script "01-hypr-pkgs.sh"
 
 # Install pipewire and pipewire-audio
-execute_script "pipewire.sh"
+# execute_script "pipewire.sh"
 
 # Install necessary fonts
 execute_script "fonts.sh"
